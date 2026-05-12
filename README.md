@@ -4,7 +4,7 @@
 
 🔗 **Live Demo:** [mobile-sales-dashboard.streamlit.app](https://mobile-sales-dashboard.streamlit.app/)
 
-![Dashboard Preview](images\preview.png)
+![Dashboard Preview](images/preview.png)
 
 ---
 
